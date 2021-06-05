@@ -7,7 +7,7 @@
 
 ## Mini Project
 |프로젝트명|링크|
-|:---:|:---:|:---:|
+|:---:|:---:|
 |01.Transformer Chatbot|[link]()|
 |02.Bert QNA|[link]()|
 |03. Transformer Chatbot(ver2)|[link]()|
